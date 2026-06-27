@@ -1,0 +1,20 @@
+body {
+    min-height: 100vh;
+    margin: 0;
+    background-color: #546e7a;
+}
+
+#root {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 16px;
+    box-sizing: border-box;
+}
+
+@media (min-width: 768px) {
+    #root {
+        align-items: center;
+    }
+}

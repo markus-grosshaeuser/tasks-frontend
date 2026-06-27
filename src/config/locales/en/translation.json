@@ -1,0 +1,62 @@
+{
+    "app_name": "Tasks",
+
+    "task_lists": "Task Lists",
+
+    "loading": "Loading...",
+    "delete_confirmation": "Delete Confirmation",
+    "delete_confirmation_message": "Are you sure you want to delete \"{{title}}\"?",
+    "this_action_cannot_be_undone": "This action cannot be undone.",
+
+    "edit_resource": "Edit Resource",
+    "create_new_resource": "Create New Resource",
+
+    "edit_task": "Edit Task",
+    "edit_task_named": "Edit Task \"{{title}}\"",
+    "create_new_task": "Create New Task",
+    "delete_task_named": "Delete Task \"{{title}}\"",
+    "edit_task_list": "Edit Task List",
+    "edit_task_list_named": "Edit Task List \"{{title}}\"",
+    "create_new_task_list": "Create New Task List",
+    "delete_task_list_named": "Delete Task List \"{{title}}\"",
+
+    "open_task_list_named": "Open task list \"{{title}}\"",
+
+    "title_is_required": "Title is required",
+    "update_the_details_below": "Update the details below.",
+    "fill_in_the_details_below_to_create_a_new_resource": "Fill in the details below to create a new resource.",
+
+    "title": "Title",
+    "description": "Description",
+    "due_date": "Due Date",
+    "priority": "Priority",
+    "status": "Status",
+
+    "cancel": "Cancel",
+    "save": "Save",
+    "saving": "Saving...",
+    "delete": "Delete",
+    "deleting": "Deleting...",
+    "edit": "Edit",
+    "update": "Update",
+    "create": "Create",
+
+    "OPEN": "Open",
+    "IN_PROGRESS": "In Progress",
+    "COMPLETED": "Completed",
+
+    "LOW": "Low",
+    "MEDIUM": "Medium",
+    "HIGH": "High",
+
+    "date_format": "YYYY-MM-DD HH:mm",
+
+    "completion_ratio": "Completion Ratio",
+    "completion_ratio_value": "{{value}}% complete",
+
+    "expand": "Expand description",
+    "collapse": "Collapse description",
+
+    "expand_all": "Expand all descriptions",
+    "collapse_all": "Collapse all descriptions"
+}

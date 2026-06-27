@@ -1,0 +1,62 @@
+{
+    "app_name": "Tasks",
+
+    "task_lists": "Aufgabenlisten",
+
+    "loading": "Lade...",
+    "delete_confirmation": "Löschen Bestätigen",
+    "delete_confirmation_message": "Möchten Sie \"{{title}}\" wirklich löschen?",
+    "this_action_cannot_be_undone": "Diese Aktion kann nicht rückgängig gemacht werden.",
+
+    "edit_resource": "Element bearbeiten",
+    "create_new_resource": "Neues Element erstellen",
+
+    "edit_task": "Aufgabe bearbeiten",
+    "edit_task_named": "Aufgabe \"{{title}}\" bearbeiten",
+    "create_new_task": "Neue Aufgabe erstellen",
+    "delete_task_named": "Aufgabe \"{{title}}\" löschen",
+    "edit_task_list": "Aufgabenliste bearbeiten",
+    "edit_task_list_named": "Aufgabenliste \"{{title}}\" bearbeiten",
+    "create_new_task_list": "Neue Aufgabenliste erstellen",
+    "delete_task_list_named": "Aufgabenliste \"{{title}}\" löschen",
+
+    "open_task_list_named": "Aufgabenliste \"{{title}}\" öffnen",
+
+    "title_is_required": "Titel ist erforderlich",
+    "update_the_details_below": "Bearbeiten Sie die unten stehenden Details.",
+    "fill_in_the_details_below_to_create_a_new_resource": "Füllen Sie die unten stehenden Felder aus, um ein neues Element zu erstellen.",
+
+    "title": "Titel",
+    "description": "Beschreibung",
+    "due_date": "Fälligkeitsdatum",
+    "priority": "Priorität",
+    "status": "Status",
+
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "saving": "Speichere...",
+    "delete": "Löschen",
+    "deleting": "Lösche...",
+    "edit": "Bearbeiten",
+    "update": "Update",
+    "create": "Erstellen",
+
+    "OPEN": "Offen",
+    "IN_PROGRESS": "In Bearbeitung",
+    "COMPLETED": "Abgeschlossen",
+
+    "LOW": "Niedrig",
+    "MEDIUM": "Mittel",
+    "HIGH": "Hoch",
+
+    "date_format": "DD.MM.YYYY HH:mm",
+
+    "completion_ratio": "Abschlussquote",
+    "completion_ratio_value": "{{value}}% abgeschlossen",
+
+    "collapse": "Beschreibung Einklappen",
+    "expand": "Beschreibung Ausklappen",
+
+    "expand_all": "Alle Beschreibungen ausklappen",
+    "collapse_all": "Alle Beschreibungen einklappen"
+}
