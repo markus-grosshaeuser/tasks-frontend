@@ -1,10 +1,10 @@
 # Tasks Frontend
 
 ![](https://github.com/markus-grosshaeuser/badges/blob/main/versions/version_1_0_0.svg)
-![](https://github.com/markus-grosshaeuser/badges/blob/main/languages/TypeScript-v6_0_3.svg)
-![](https://github.com/markus-grosshaeuser/badges/blob/main/frameworks/React-v19_2_6.svg)
-![](https://github.com/markus-grosshaeuser/badges/blob/main/tools/Vite-v8_0_12.svg)
-![](https://github.com/markus-grosshaeuser/badges/blob/main/tools/npm-v11_13_0.svg)
+![](https://github.com/markus-grosshaeuser/badges/blob/main/languages/TypeScript-v6.0.3.svg)
+![](https://github.com/markus-grosshaeuser/badges/blob/main/frameworks/React-v19.2.6.svg)
+![](https://github.com/markus-grosshaeuser/badges/blob/main/tools/Vite-v8.0.12.svg)
+![](https://github.com/markus-grosshaeuser/badges/blob/main/tools/npm-v11.13.0.svg)
 ![](https://github.com/markus-grosshaeuser/badges/blob/main/license-MIT.svg)
 
 A React frontend for managing task lists and tasks.
