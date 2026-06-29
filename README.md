@@ -19,6 +19,26 @@ A React frontend for managing task lists and tasks.
 - Responsive Material UI based interface
 - Internationalization support
 
+
+## Screenshots
+
+### Task List View
+This view displays the main dashboard listing all available task lists and their completion ratio.
+![](screenshots/01_task_list_view.png)
+
+### Creation of a new Task List
+Allows you to create a new task list by entering a name and optional description.
+![](screenshots/02_create_task_list.png)
+
+### Tasks of a Task List
+Shows the specific tasks belonging to the selected task list, including due dates, priority, and status.
+![](screenshots/03_tasks_view.png)
+
+### Creation of a new Task
+Allows you to add a new task to the current list with details such as title, description, due date, priority, and status.
+![](screenshots/04_create_task.png)
+
+
 ## Tech Stack
 
 - TypeScript 6
